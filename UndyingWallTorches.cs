@@ -10,7 +10,7 @@ using Oxide.Core.Plugins;
 namespace Oxide.Plugins
 {
     [Info("Undying Wall Torches", "VisEntities", "1.0.0")]
-    [Description(" ")]
+    [Description("Removes durability loss from wall torches.")]
     public class UndyingWallTorches : RustPlugin
     {
         #region Fields
